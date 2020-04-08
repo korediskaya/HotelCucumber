@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66d0928b-d841-4d35-a6ed-5f50ade864cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1ZoPxA7i6HMMoKdvvDOClUowlIZ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Hotels">
+    <configuration name="Feature: Hotels" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Hotels.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="hotelsApril2020" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Hotels" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hotelsApril2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Hotels" />
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66d0928b-d841-4d35-a6ed-5f50ade864cc" name="Default Changelist" comment="" />
+      <created>1585502717102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585502717102</updated>
+      <workItem from="1585604265563" duration="2451000" />
+      <workItem from="1585614477065" duration="56000" />
+      <workItem from="1585616002615" duration="884000" />
+      <workItem from="1585690430109" duration="96000" />
+      <workItem from="1585789177803" duration="357000" />
+      <workItem from="1586005487510" duration="1324000" />
+      <workItem from="1586006970659" duration="72000" />
+      <workItem from="1586007050695" duration="2012000" />
+      <workItem from="1586106853931" duration="2965000" />
+      <workItem from="1586293501972" duration="592000" />
+      <workItem from="1586381567922" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="298" y="161" key="#Project_Structure" timestamp="1585613828815">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="298" y="161" key="#Project_Structure/0.23.1440.830@0.23.1440.830" timestamp="1585613828815" />
+    <state x="1723" y="189" key="#Project_Structure/1440.23.1366.1001/0.23.1440.877@1440.23.1366.1001" timestamp="1585505559581" />
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom" timestamp="1586382184041">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586139467500" />
+    <state width="1294" height="228" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1586006444300" />
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1586107141571" />
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.829/1440.23.1432.1051@0.23.1440.829" timestamp="1586382184041" />
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1586381680231" />
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586008293670" />
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586010311936" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585587489762" />
+    <state width="1337" height="228" key="GridCell.Tab.0.center" timestamp="1586382184040">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1586139467498" />
+    <state width="1294" height="228" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1586006444299" />
+    <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1586107141566" />
+    <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.829/1440.23.1432.1051@0.23.1440.829" timestamp="1586382184040" />
+    <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1586381680230" />
+    <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586008293669" />
+    <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1586010311935" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585587489761" />
+    <state width="1337" height="228" key="GridCell.Tab.0.left" timestamp="1586382184039">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1586139467497" />
+    <state width="1294" height="228" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1586006444298" />
+    <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1586107141564" />
+    <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.829/1440.23.1432.1051@0.23.1440.829" timestamp="1586382184039" />
+    <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1586381680229" />
+    <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586008293668" />
+    <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1586010311935" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585587489760" />
+    <state width="1337" height="228" key="GridCell.Tab.0.right" timestamp="1586382184041">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1586139467499" />
+    <state width="1294" height="228" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1586006444300" />
+    <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1586107141567" />
+    <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.829/1440.23.1432.1051@0.23.1440.829" timestamp="1586382184041" />
+    <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1586381680231" />
+    <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1586008293669" />
+    <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1586010311936" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585587489761" />
+    <state width="1324" height="41" key="GridCell.Tab.1.bottom" timestamp="1585522644941">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1324" height="41" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585522644941" />
+    <state width="1324" height="41" key="GridCell.Tab.1.center" timestamp="1585522644939">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1324" height="41" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1585522644939" />
+    <state width="1324" height="41" key="GridCell.Tab.1.left" timestamp="1585522644937">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1324" height="41" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1585522644937" />
+    <state width="1324" height="41" key="GridCell.Tab.1.right" timestamp="1585522644940">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1324" height="41" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1585522644940" />
+    <state x="239" y="63" key="SettingsEditor" timestamp="1585522813408">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="239" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585522813408" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1585583913324">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1585583913324" />
+  </component>
+</project>
