@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d0928b-d841-4d35-a6ed-5f50ade864cc" name="Default Changelist" comment="" />
+    <list default="true" id="66d0928b-d841-4d35-a6ed-5f50ade864cc" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.logs/application.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/application.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runnerTest/TestRunner.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -33,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -40,7 +52,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: Hotels">
+  <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="Feature: Hotels" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Hotels.feature" />
@@ -76,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Feature: Hotels" />
         <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber java.Feature: Hotels" />
       </list>
     </recent_temporary>
   </component>
@@ -102,11 +114,19 @@
       <workItem from="1586106853931" duration="2965000" />
       <workItem from="1586293501972" duration="592000" />
       <workItem from="1586381567922" duration="391000" />
+      <workItem from="1586432144377" duration="1320000" />
+      <workItem from="1586477236612" duration="1090000" />
+      <workItem from="1586478630598" duration="267000" />
+      <workItem from="1586479064440" duration="583000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="298" y="161" key="#Project_Structure" timestamp="1585613828815">
@@ -114,10 +134,16 @@
     </state>
     <state x="298" y="161" key="#Project_Structure/0.23.1440.830@0.23.1440.830" timestamp="1585613828815" />
     <state x="1723" y="189" key="#Project_Structure/1440.23.1366.1001/0.23.1440.877@1440.23.1366.1001" timestamp="1585505559581" />
-    <state width="1337" height="228" key="GridCell.Tab.0.bottom" timestamp="1586382184041">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="312" y="49" key="CommitChangelistDialog2" timestamp="1586479539602">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
+    <state x="312" y="49" key="CommitChangelistDialog2/0.23.1440.826/1440.23.1432.1051@0.23.1440.826" timestamp="1586479539602" />
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom" timestamp="1586479600932">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.23.1432.1051@0.23.1440.825" timestamp="1586477817221" />
     <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586139467500" />
+    <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.826/1440.23.1432.1051@0.23.1440.826" timestamp="1586479600932" />
     <state width="1294" height="228" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1586006444300" />
     <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1586107141571" />
     <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.829/1440.23.1432.1051@0.23.1440.829" timestamp="1586382184041" />
@@ -125,10 +151,12 @@
     <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1586008293670" />
     <state width="1337" height="228" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586010311936" />
     <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585587489762" />
-    <state width="1337" height="228" key="GridCell.Tab.0.center" timestamp="1586382184040">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state width="1337" height="228" key="GridCell.Tab.0.center" timestamp="1586479600928">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
+    <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.825/1440.23.1432.1051@0.23.1440.825" timestamp="1586477817220" />
     <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1586139467498" />
+    <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.826/1440.23.1432.1051@0.23.1440.826" timestamp="1586479600928" />
     <state width="1294" height="228" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1586006444299" />
     <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1586107141566" />
     <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.829/1440.23.1432.1051@0.23.1440.829" timestamp="1586382184040" />
@@ -136,10 +164,12 @@
     <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1586008293669" />
     <state width="1337" height="228" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1586010311935" />
     <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585587489761" />
-    <state width="1337" height="228" key="GridCell.Tab.0.left" timestamp="1586382184039">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state width="1337" height="228" key="GridCell.Tab.0.left" timestamp="1586479600927">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
+    <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.825/1440.23.1432.1051@0.23.1440.825" timestamp="1586477817219" />
     <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1586139467497" />
+    <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.826/1440.23.1432.1051@0.23.1440.826" timestamp="1586479600927" />
     <state width="1294" height="228" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1586006444298" />
     <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1586107141564" />
     <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.829/1440.23.1432.1051@0.23.1440.829" timestamp="1586382184039" />
@@ -147,10 +177,12 @@
     <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1586008293668" />
     <state width="1337" height="228" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1586010311935" />
     <state width="1398" height="160" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585587489760" />
-    <state width="1337" height="228" key="GridCell.Tab.0.right" timestamp="1586382184041">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state width="1337" height="228" key="GridCell.Tab.0.right" timestamp="1586479600929">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
+    <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.825/1440.23.1432.1051@0.23.1440.825" timestamp="1586477817221" />
     <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1586139467499" />
+    <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.826/1440.23.1432.1051@0.23.1440.826" timestamp="1586479600929" />
     <state width="1294" height="228" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1586006444300" />
     <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1586107141567" />
     <state width="1337" height="228" key="GridCell.Tab.0.right/0.23.1440.829/1440.23.1432.1051@0.23.1440.829" timestamp="1586382184041" />

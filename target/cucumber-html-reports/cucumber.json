@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1766865483,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on default location search locations screen",
+            "match": {
+              "location": "Hotels1SD.verifyHomePageUrlAntTitle()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10865282996,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SharedSD.setup()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "List of all of hotel within 10 miles radius of downtown",
+        "description": "",
+        "id": "hotels-page-features;list-of-all-of-hotel-within-10-miles-radius-of-downtown",
+        "after": [
+          {
+            "result": {
+              "duration": 351568963,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SharedSD.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 598895921,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter Cincinnati and select CityName field on the homepage page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Cincinnati",
+                  "offset": 8
+                },
+                {
+                  "val": "CityName",
+                  "offset": 30
+                }
+              ],
+              "location": "Hotels1SD.selectValues(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 910731158,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter 05/07/20 and select CheckIn field on the homepage page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "05/07/20",
+                  "offset": 8
+                },
+                {
+                  "val": "CheckIn",
+                  "offset": 28
+                }
+              ],
+              "location": "Hotels1SD.selectValues(String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 622795215,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I enter 05/09/20 and select CheckOut field on the homepage page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "05/09/20",
+                  "offset": 8
+                },
+                {
+                  "val": "CheckOut",
+                  "offset": 28
+                }
+              ],
+              "location": "Hotels1SD.selectValues(String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 177790456,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter 1 and select Rooms field on the homepage page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 8
+                },
+                {
+                  "val": "Rooms",
+                  "offset": 21
+                }
+              ],
+              "location": "Hotels1SD.selectValues(String,String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 49646062125,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I select system displays all hotels within 10 or less mile radius of downtown",
+            "match": {
+              "location": "Hotels1SD.findHotels()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 40923442328,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I select all Hilton hotels from previous list",
+            "match": {
+              "location": "Hotels1SD.hiltonHotels()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@hotels2"
+          }
+        ]
+      }
+    ],
+    "name": "Hotels page features",
+    "description": "",
+    "id": "hotels-page-features",
+    "keyword": "Feature",
+    "uri": "Hotels.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@web"
+      }
+    ]
+  }
+]
