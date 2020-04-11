@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d0928b-d841-4d35-a6ed-5f50ade864cc" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/formatter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/jquery-1.8.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/style.css" afterDir="false" />
+    <list default="true" id="66d0928b-d841-4d35-a6ed-5f50ade864cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.logs/application.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.logs/application.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runnerTest/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-reports/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +115,7 @@
       <workItem from="1586479064440" duration="990000" />
       <workItem from="1586480605839" duration="33000" />
       <workItem from="1586480657886" duration="16000" />
-      <workItem from="1586520770622" duration="294000" />
+      <workItem from="1586520770622" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586480087806</created>
@@ -132,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586480087806</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1586521115815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586521115815</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,11 +147,12 @@
     </state>
     <state x="298" y="161" key="#Project_Structure/0.23.1440.830@0.23.1440.830" timestamp="1585613828815" />
     <state x="1723" y="189" key="#Project_Structure/1440.23.1366.1001/0.23.1440.877@1440.23.1366.1001" timestamp="1585505559581" />
-    <state x="312" y="49" key="CommitChangelistDialog2" timestamp="1586480440810">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="312" y="49" key="CommitChangelistDialog2" timestamp="1586521115524">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="312" y="49" key="CommitChangelistDialog2/0.23.1440.826/1440.23.1432.1051@0.23.1440.826" timestamp="1586479539602" />
     <state x="312" y="49" key="CommitChangelistDialog2/0.23.1440.827/1440.23.1432.1051@0.23.1440.827" timestamp="1586480440810" />
+    <state x="312" y="49" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1586521115524" />
     <state width="1337" height="383" key="GridCell.Tab.0.bottom" timestamp="1586480442751">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -229,6 +229,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="239" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585522813408" />
+    <state x="100" y="123" width="1179" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586521138280">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="100" y="123" width="1179" height="624" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.829@0.23.1440.829" timestamp="1586521138280" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1585583913324">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
