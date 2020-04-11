@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 7177941298,
+  "duration": 11596806370,
   "status": "passed"
 });
 formatter.background({
@@ -32,7 +32,7 @@ formatter.match({
   "location": "Hotels1SD.verifyHomePageUrlAntTitle()"
 });
 formatter.result({
-  "duration": 2194866504,
+  "duration": 1917410454,
   "status": "passed"
 });
 formatter.scenario({
@@ -93,7 +93,7 @@ formatter.match({
   "location": "Hotels1SD.selectValues(String,String)"
 });
 formatter.result({
-  "duration": 567346997,
+  "duration": 385224717,
   "status": "passed"
 });
 formatter.match({
@@ -110,7 +110,7 @@ formatter.match({
   "location": "Hotels1SD.selectValues(String,String)"
 });
 formatter.result({
-  "duration": 2029933937,
+  "duration": 590087051,
   "status": "passed"
 });
 formatter.match({
@@ -127,7 +127,7 @@ formatter.match({
   "location": "Hotels1SD.selectValues(String,String)"
 });
 formatter.result({
-  "duration": 288977748,
+  "duration": 526806125,
   "status": "passed"
 });
 formatter.match({
@@ -144,25 +144,25 @@ formatter.match({
   "location": "Hotels1SD.selectValues(String,String)"
 });
 formatter.result({
-  "duration": 110273045,
+  "duration": 173762800,
   "status": "passed"
 });
 formatter.match({
   "location": "Hotels1SD.findHotels()"
 });
 formatter.result({
-  "duration": 16672103900,
+  "duration": 50836348650,
   "status": "passed"
 });
 formatter.match({
   "location": "Hotels1SD.hiltonHotels()"
 });
 formatter.result({
-  "duration": 2562370948,
+  "duration": 40996553213,
   "status": "passed"
 });
 formatter.after({
-  "duration": 341720394,
+  "duration": 338350925,
   "status": "passed"
 });
 });

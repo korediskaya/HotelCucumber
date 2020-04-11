@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1586603437512" stop="1586603532192" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>List of all of hotel within 10 miles radius of downtown</name>
+    <title>List of all of hotel within 10 miles radius of downtown</title>
+    <test-cases>
+        <test-case start="1586603437680" stop="1586603437686" status="passed">
+            <name>Given I am on default location search locations screen</name>
+            <title>Given I am on default location search locations screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MMs-MacBook-Air.home"/>
+                <label name="thread" value="75090@MMs-MacBook-Air.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586603438665" stop="1586603438666" status="passed">
+            <name>When I enter Cincinnati and select CityName field on the homepage page</name>
+            <title>When I enter Cincinnati and select CityName field on the homepage page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MMs-MacBook-Air.home"/>
+                <label name="thread" value="75090@MMs-MacBook-Air.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586603439267" stop="1586603439267" status="passed">
+            <name>And I enter 05/07/20 and select CheckIn field on the homepage page</name>
+            <title>And I enter 05/07/20 and select CheckIn field on the homepage page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MMs-MacBook-Air.home"/>
+                <label name="thread" value="75090@MMs-MacBook-Air.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586603439800" stop="1586603439800" status="passed">
+            <name>And I enter 05/09/20 and select CheckOut field on the homepage page</name>
+            <title>And I enter 05/09/20 and select CheckOut field on the homepage page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MMs-MacBook-Air.home"/>
+                <label name="thread" value="75090@MMs-MacBook-Air.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586603439978" stop="1586603439978" status="passed">
+            <name>And I enter 1 and select Rooms field on the homepage page</name>
+            <title>And I enter 1 and select Rooms field on the homepage page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MMs-MacBook-Air.home"/>
+                <label name="thread" value="75090@MMs-MacBook-Air.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586603490830" stop="1586603490831" status="passed">
+            <name>And I select system displays all hotels within 10 or less mile radius of downtown</name>
+            <title>And I select system displays all hotels within 10 or less mile radius of downtown</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MMs-MacBook-Air.home"/>
+                <label name="thread" value="75090@MMs-MacBook-Air.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586603531845" stop="1586603531845" status="passed">
+            <name>Then I select all Hilton hotels from previous list</name>
+            <title>Then I select all Hilton hotels from previous list</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MMs-MacBook-Air.home"/>
+                <label name="thread" value="75090@MMs-MacBook-Air.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="List of all of hotel within 10 miles radius of downtown"/>
+        <label name="feature" value="Hotels page features"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
